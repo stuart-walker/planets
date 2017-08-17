@@ -1,2 +1,1 @@
-*.dat
-results/
+results/data/*.dat #ignore dat files in data repository
